@@ -40,6 +40,8 @@
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?color=black&style=for-the-badge&logo=github&logoColor=white)&nbsp;
     ![Codeforces](https://img.shields.io/badge/-Codeforces-05122A?style=for-the-badge&logo=Codeforces)&nbsp;
+   ![hackerank](https://img.shields.io/badge/-hackerank-05122A?style=for-the-badge&logo=hackerank)&nbsp;
+  
 
 <br>
 
