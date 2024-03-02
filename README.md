@@ -35,12 +35,16 @@
 
         
     ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-    ![CLion](https://img.shields.io/badge/-CLion-%2300599C.svg?style=for-the-badge&logo=CLion&logoColor=white)&nbsp;
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?color=black&style=for-the-badge&logo=github&logoColor=white)&nbsp;
     ![Codeforces](https://img.shields.io/badge/-Codeforces-05122A?style=for-the-badge&logo=Codeforces)&nbsp;
-   ![hackerank](https://img.shields.io/badge/-hackerank-05122A?style=for-the-badge&logo=hackerank)&nbsp;
+  ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)&nbsp;
+  ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)&nbsp;
+
+
+
+
+ 
   
 
 <br>
