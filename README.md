@@ -40,6 +40,8 @@
     ![Codeforces](https://img.shields.io/badge/-Codeforces-05122A?style=for-the-badge&logo=Codeforces)&nbsp;
   ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)&nbsp;
   ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)&nbsp;
+  ![GeeksforGeeks ](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)&nbsp;
+
 
 
 
