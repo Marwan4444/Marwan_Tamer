@@ -1,3 +1,6 @@
+
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+
 <h3 align="center">
   Welcome to MARWAN TAMER 's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -11,6 +14,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
+  
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=ACE%20Student;Interested%20about%20Embedded%20Systems;&font=Fira%20Code&center=true&width=440&height=45&color=0df3f3&vCenter=true&size=22"></a>
 </p> 
 
